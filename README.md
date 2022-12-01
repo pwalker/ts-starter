@@ -27,3 +27,7 @@ I've included default configurations for the following tools that should play ni
 - Prettier
 
 They probably need fine tuning for serious work, but they should cause alerts for common errors.
+
+## Versions
+
+A note about versions, this repo contains some packages specific to node version v16.14.0. I'd recommend using a node version manager like [fnm](https://github.com/Schniz/fnm) or even a more general purpose version manager like [asdf](https://asdf-vm.com/) to install specific versions, and then configure your shell to automatically pick up the right version.
