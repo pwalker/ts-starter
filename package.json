@@ -1,7 +1,7 @@
 {
   "name": "ts-starter",
   "version": "1.0.0",
-  "description": "A simple typescript starting for just doing typescript things.",
+  "description": "A simple typescript starter for just doing typescript things.",
   "main": "index.ts",
   "author": "Peter Walker <pwalker@peak6.com>",
   "license": "MIT",
